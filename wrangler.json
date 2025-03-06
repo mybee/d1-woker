@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "d1-woker",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4d097069-4d8a-4ceb-a602-a26a83ada536",
+      "database_name": "d1-woker"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
